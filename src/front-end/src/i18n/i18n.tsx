@@ -8,4 +8,4 @@ export const translations = {
 };
 
 // export const translate = new I18n(translations);
-export const translate = translations.en.Common;
+export const translate = translations.en;

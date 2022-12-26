@@ -1,5 +1,9 @@
 {
   "Common": {
-    "Hello": "Hello World"
+    "AppName": "App Delight"
+  },
+  "AuthScreen": {
+    "signup": "Signup",
+    "login": "Login"
   }
 }
